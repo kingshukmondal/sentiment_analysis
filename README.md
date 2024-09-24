@@ -30,7 +30,7 @@
 <h2>📦 Installation</h2>
 <ol>
     <li>Clone this repository:
-        <pre><code>git clone https://github.com/yourusername/sentiment-analysis-chat.git
+        <pre><code>git clone https://github.com/kingshukmondal/sentiment_analysis.git
 cd sentiment-analysis-chat</code></pre>
     </li>
     <li>Install the required packages:
