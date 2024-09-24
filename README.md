@@ -66,10 +66,11 @@ nltk.download('vader_lexicon')</code></pre>
 
 <h2>🖼️ Screenshots</h2>
 <p>Here are some screenshots of the application:</p>
-<img src="path/to/screenshot1.png" alt="Screenshot 1" class="screenshot">
-<img src="path/to/screenshot2.png" alt="Screenshot 2" class="screenshot">
-<img src="path/to/screenshot3.png" alt="Screenshot 3" class="screenshot">
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/user-attachments/assets/20108204-7ab3-4d33-89fa-a196cde3aa1d" alt="Screenshot 1" class="screenshot" style="width: 30%; max-width: 200px;">
+    <img src="https://github.com/user-attachments/assets/26479eb0-5f77-4bc0-8dd0-894ef7f57808" alt="Screenshot 2" class="screenshot" style="width: 30%; max-width: 200px;">
+    <img src="https://github.com/user-attachments/assets/c11ac121-7857-4a4a-b910-5a9e477d0ed0" alt="Screenshot 3" class="screenshot" style="width: 30%; max-width: 200px;">
+</div>
 <h2>🎨 Contribution</h2>
 <p>Contributions are welcome! If you'd like to enhance the app or add new features, feel free to fork the repository and submit a pull request.</p>
 
